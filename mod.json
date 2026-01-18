@@ -1,0 +1,14 @@
+{
+	"id": "Baltrou Files",
+	"name": "Baltrou Files",
+	"display_name": "Baltrou Files",
+	"author": ["LouLovesGambling"],
+	"description": "juste1test",
+	"prefix": "bf",
+	"main_file": "main.lua",
+	"priority": 0,
+	"badge_colour": "2596be",
+	"badge_text_colour": "ffffff",
+	"version": "1.0.0",
+	"dependencies": [],
+}
