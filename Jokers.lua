@@ -13,6 +13,7 @@ SMODS.Atlas{
     py = 91,
 }
 
+-- Joker de merde 
 
 SMODS.Joker {
     key = 'Joker1',
@@ -37,6 +38,7 @@ SMODS.Joker {
 
 }
 
+-- Joker : Wheel of Miuel
 
 SMODS.Joker {
     key = 'Joker2',
