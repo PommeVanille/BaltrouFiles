@@ -1,3 +1,11 @@
+
+
+
+-- je renomme ce fichier en jokers.lua, vu que y'a que ca dedans, comme ca on s'organise si un jour on fait des tarot, skip.blind ou comme ca 
+    -- pour l'idée de la pool de joker "homies" jsp si on fait ca ici ou si on fais un autre dossier, on verra quand on connaitras comment le faire i guess 
+
+
+
 SMODS.Atlas{
     key = 'Jokers',
     path = 'Jokers.png',
@@ -70,3 +78,6 @@ SMODS.Joker {
     end
 
 }
+
+-- Joker de ellie : debuff x jokers to its left, retrigger the joker to its right x times 
+
