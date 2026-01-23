@@ -83,12 +83,16 @@ SMODS.Joker {
 
 -- Joker de ellie : debuff x jokers to its left, retrigger the joker to its right x times 
 
-SMODS.Joker{
+SMODS.Joker {
     key = 'jokerEllie',
     loc_txt = {
-        name = 'TBD',
-        text = {}},
-    rarity = 4 
+        name = 'JokerEllie',
+        text = {'debuff x jokers to its left, retrigger the joker to its right x times' }},
+
+        atlas = 'Jokers',
+        pos = {x = 2, y= 0},
+
+        rarity = 4 
 
     -- pour la logic je vais review le code de Cryptid pour voire ce que je peut apprendre avant la prochaine session de code 
 

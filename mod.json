@@ -5,10 +5,10 @@
 	"author": ["LouLovesGambling"],
 	"description": "juste1test",
 	"prefix": "bf",
-	"main_file": "main.lua",
+	"main_file": "BaltrouFiles.lua",
 	"priority": 0,
 	"badge_colour": "2596be",
 	"badge_text_colour": "ffffff",
 	"version": "1.0.0",
-	"dependencies": [],
+	"dependencies": []
 }
